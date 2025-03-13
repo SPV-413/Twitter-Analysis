@@ -62,8 +62,5 @@ Ensure you have the following installed:
 ## Results
 - Using **Bag of Words (BoW)** for feature extraction resulted the highest accuracy score with the **RandomForestClassifier** model when compared to TF-IDF method. This suggests that Bag of Words (BoW) method effectively captured the relevant information in the dataset, highlighting their robustness in certain contexts. Enabling automated analysis of public opinion and providing real-time insights into trends and reactions.
 
-## License
-This project is open-source!
-
 ## Contact
 For any inquiries, reach out via GitHub or email.
