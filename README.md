@@ -53,9 +53,9 @@ Ensure you have the following installed:
 
 ### Running the Notebook
 1. Clone the repository:
-   git clone https://github.com/SPV-413/Twitter-Analysis.git
+   git clone https://github.com/SPV-413/Twitter-Sentiment-Analysis.git
 2. Navigate to the project folder:
-   cd Twitter-Analysis
+   cd Twitter-Sentiment-Analysis
 3. Open the Jupyter Notebook:
    jupyter notebook Twitter analysis.ipynb
 
